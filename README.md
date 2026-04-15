@@ -1,4 +1,4 @@
-# Twitter sentiment analysis Project
+# Twitter sentiment analysis
 
 This project performs sentiment analysis on Twitter data using the Sentiment140 dataset from Kaggle and uses different machine learning models with the lexicon tools as a baseline for performance comparison.
 
